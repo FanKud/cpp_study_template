@@ -1,6 +1,8 @@
 Checks: >
   -*,
+  cert-*,
   clang-analyzer-*,
+  cppcoreguidelines-*,
   bugprone-*,
   performance-*,
   readability-*,
